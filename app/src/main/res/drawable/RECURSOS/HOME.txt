@@ -1,0 +1,8 @@
+REPOSITORIO:
+https://github.com/juanorih/club-api-rest
+
+RESEÑA:
+Bienvenidos al Club de Baloncesto. 
+Aquí encontrarás una comunidad de amantes del baloncesto unidos por el amor a este emocionante deporte. 
+Desde la sección principal de nuestra aplicación, podrás interactuar con los miembros y participar en nuestras actividades. 
+¡Únete a nosotros y forma parte de nuestra familia de baloncesto!

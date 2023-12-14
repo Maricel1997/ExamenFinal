@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FinalMaricel</string>
+    <string name="nombre">Nombre Apell:</string>
+    <string name="txt_nombre">Ingrese el Nombre Completo</string>
+    <string name="tele">Telefono</string>
+    <string name="txt_tel">Introduzaca el Numero de Telefono</string>
+    <string name="docum">Numero de Documento</string>
+    <string name="txt_document">Introduzca el Numero de documento</string>
+
+    <string name="btn_inicio">Inicio</string>
+    <string name="btn_envio">Envio</string>
+</resources>

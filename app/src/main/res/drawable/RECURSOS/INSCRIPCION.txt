@@ -1,0 +1,9 @@
+CLASE:
+Member
+   name;
+   phone;
+   document;
+
+
+ENDPOINT:
+http://10.0.2.2:8098/api/saveMember
