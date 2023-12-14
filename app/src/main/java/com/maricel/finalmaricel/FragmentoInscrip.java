@@ -47,7 +47,7 @@ public class FragmentoInscrip extends Fragment {
                 String  ci = ciEditText.getText().toString();
 
                 //String url = "http://10.0.2.2:8098/api/saveUser"; // url local
-                String url = "https://my-examen-maricel.onrender.com/api/saveMember";
+                String url = "https://my-club-maricel.onrender.com/api/saveMember";
                 //String url = "https://my-usuario-acme.onrender.com/api/saveUser"; // Reemplazar por la url desplegada en Render
 
                 RequestQueue queue = Volley.newRequestQueue(getActivity());

@@ -34,7 +34,7 @@ public class FragementoMiembro extends Fragment {
         view = inflater.inflate(R.layout.fragmento_miembro, container, false);
 
 //        String url = "http://10.0.2.2:8098/api/getUsers";
-        String url = "https://my-examen-maricel.onrender.com/api/getMembers";
+        String url = "https://my-club-maricel.onrender.com/api/getMembers";
         //String url = "https://my-usuario-acme.onrender.com/api/getUsers"; // Reemplazar por la url desplegada en Render
         RequestQueue queue = Volley.newRequestQueue(getContext());
 
